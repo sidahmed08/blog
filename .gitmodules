@@ -18,3 +18,15 @@
 	path = pleaseeee
 	url = git@github.com:sidahmed08/sidahmed08.github.io.git
 	branch = main
+[submodule "ziani.github.io"]
+	path = ziani.github.io
+	url = git@github.com:sidahmed08/ziani.github.io.git
+	branch = main
+[submodule "public/ziani.github.io"]
+	path = public/ziani.github.io
+	url = git@github.com:sidahmed08/ziani.github.io.git
+	branch = main
+[submodule "public/sidahmed08.github.io"]
+	path = public/sidahmed08.github.io
+	url = git@github.com:sidahmed08/sidahmed08.github.io.git
+	branch = main
