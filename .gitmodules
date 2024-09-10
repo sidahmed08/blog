@@ -10,3 +10,11 @@
 	path = ...
 	url = git@github.com:sidahmed08/sidahmed08.github.io.git
 	branch = main
+[submodule "final"]
+	path = final
+	url = git@github.com:sidahmed08/sidahmed08.github.io.git
+	branch = main
+[submodule "pleaseeee"]
+	path = pleaseeee
+	url = git@github.com:sidahmed08/sidahmed08.github.io.git
+	branch = main
