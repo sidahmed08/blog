@@ -35,25 +35,6 @@
     
     <item>
       <title>Пост первой недели сентября</title>
-      <link>http://localhost:1313/post/last-week/</link>
-      <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/last-week/</guid>
-      <description>&lt;p&gt;Прошлая неделя была для меня очень тяжелой, потому что мы снова пошли в университет, и я только что вернулась с каникул, поэтому я стараюсь начать все хорошо и быть хорошей ученицей. Я купила книги и ручки и подготовилась к новым занятиям.
-
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Пост первой недели сентября</title>
       <link>http://localhost:1313/post/lol/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/lol/</guid>
